@@ -106,4 +106,4 @@ python scripts/visualize_with_open3d.py \
 
 Arnav Kapoor
 June 2025
-Intern at Moon Lab | Robotics & Vision Systems Researcher
+Intern at GeoAI4Cities Lab | 3d Semantic Researcher
