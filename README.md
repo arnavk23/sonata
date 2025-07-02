@@ -101,9 +101,3 @@ python scripts/visualize_with_open3d.py \
 * [SONATA GitHub](https://github.com/facebookresearch/sonata)
 * [ZED SDK](https://www.stereolabs.com/docs/)
 * [Open3D Docs](http://www.open3d.org/)
-
-### Author
-
-Arnav Kapoor
-June 2025
-Intern at GeoAI4Cities Lab | 3d Semantic Researcher
