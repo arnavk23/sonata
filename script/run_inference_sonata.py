@@ -6,8 +6,6 @@ from sonata.models.build import build_model
 from sonata.utils.checkpoint import load_checkpoint
 
 def run_inference(cfg_path, input_path, model_path, output_path):
-    # Load config
-    from sonata.config import get_cfg
     cfg = get_cfg()
     cfg.merge_from_file(cfg_path)
     cfg.freeze()
